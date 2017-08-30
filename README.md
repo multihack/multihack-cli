@@ -1,4 +1,4 @@
 # multihack-cli
-Browserless CLI for syncing a production server.
+Browserless CLI for syncing your local filesystem.
 
 **Coming soon...**
